@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | 
+| [home page](https:/ww.isharaghuvanshi.com/) | [visualizing debt](visualizing-government-debt) | 
 
 # Isha's Data Visualization @ CMU
 This is my public portfolio for Telling Stories with Data at CMU
