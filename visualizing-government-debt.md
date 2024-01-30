@@ -1,10 +1,12 @@
 | [home page](https://isha0807.github.io/Portfolio/) | [visualizing debt](visualizing-government-debt) |
-# Title
-Text here!
+
+# Visualizing government debt using Tableau
+
+## Part 1: Working with web-based visualization tools and data
 
 <iframe src="https://data.oecd.org/chart/7krw" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7krw" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2021</a></iframe>
 
-## task2
+## Part 2: Working with Tableau
 
 <div class='tableauPlaceholder' id='viz1706580652449' style='position: relative'>
   <noscript>
@@ -38,4 +40,8 @@ Text here!
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
+
+## Part 3: Create your own visualization
+
+### A third-level heading
 
