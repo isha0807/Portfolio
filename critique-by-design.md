@@ -83,6 +83,9 @@ Feedback:
 
     
 ### Summing Up
+
+I selected this visualization to offer viewers a comprehensive perspective. By highlighting countries with lower tuition fees despite high living expenses, students with budget constraints can identify affordable options. Moreover, those aspiring to study in cities renowned for excellent infrastructure and healthcare need not worry about exorbitant costs, as factors such as urbanization, government regulations, and taxes often mitigate tuition fees. Thus, while living expenses may be elevated, the overall average cost is moderated.
+
 This way of analyzing visuals was really useful in my experience. It helped me to evaluate the same visualization from several perspectives, going beyond its beauty. As designers, we frequently focus primarily on aesthetics, but the criteria prompted me to investigate additional elements.While each phase provided distinct considerations, the whole experience was excellent. It taught me a fresh way to critique existing visuals and how to effectively incorporate other perspectives into the redesign process.
 
 
