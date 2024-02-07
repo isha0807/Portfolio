@@ -1,4 +1,4 @@
-| [home page](https://isha0807.github.io/Portfolio/) | [visualizing debt](visualizing-government-debt) | 
+| [home page](https://isha0807.github.io/Portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) |
 
 # Isha's Data Visualization @ CMU
 This is my public portfolio for Telling Stories with Data at CMU
