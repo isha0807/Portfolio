@@ -31,3 +31,7 @@ Engagement.
 10/10 
 With limited information in the initial data visualization, viewers are likely motivated to delve deeper into the article for additional insights. Consequently, the entire article becomes engaging for the audience as they are compelled to satisfy their curiosity and learn more.
 
+### Step three: sketch out a solution
+Reflecting on the previous critique I provided, it aided me in conceptualizing and sketching out the idea I aimed to communicate.
+
+
