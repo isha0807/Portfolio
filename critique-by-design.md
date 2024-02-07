@@ -34,4 +34,7 @@ With limited information in the initial data visualization, viewers are likely m
 ### Step three: sketch out a solution
 Reflecting on the previous critique I provided, it aided me in conceptualizing and sketching out the idea I aimed to communicate.
 
+![IMG_6939](https://github.com/isha0807/Portfolio/assets/157324981/7093a7cf-c67a-4436-b274-760d78984024)
+
+
 
