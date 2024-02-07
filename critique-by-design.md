@@ -31,10 +31,28 @@ Engagement.
 10/10 
 With limited information in the initial data visualization, viewers are likely motivated to delve deeper into the article for additional insights. Consequently, the entire article becomes engaging for the audience as they are compelled to satisfy their curiosity and learn more.
 
-### Step three: Sketch out a solution
+### Step 3: Sketch out a solution
 Reflecting on the previous critique I provided, it aided me in conceptualizing and sketching out the idea I aimed to communicate. The primary goal of the redesign was to clearly illustrate the breakdown of expenses, whether it be living or tuition costs, to empower viewers to make informed decisions.
 
 ![IMG_6939](https://github.com/isha0807/Portfolio/assets/157324981/7093a7cf-c67a-4436-b274-760d78984024)
+
+### Step 4: Sketch out a solution
+I tested the initial sketches with three participants: one male aged 30, and two females both aged 22.
+
+Leveraged the following question to ask the users:
+1. Show the initial data visualization and get the participants first impressions
+2. Can you tell me what you think this is?
+3. Can you describe to me what this is telling you?
+4. Is there anything you find surprising or confusing?
+6. Is there anything you would change or do differently?
+
+Feedback
+Feedback:
+1. Using a bar graph effectively presents all the data, enhancing the understanding of data points and assisting students or parents in making informed decisions.
+2. Participants were curious about the reason behind the inverse relationship between high living expenses and lower tuition fees in some countries.
+3. Despite this, participants appreciated the initial world map approach in the Data Visualization, as it provided a geographical context and allowed them to visualize how the average costs played out on a larger scale.
+
+### Step 5: Solution
 
 
 
