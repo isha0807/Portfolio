@@ -81,6 +81,9 @@ Feedback:
                                        vizElement.style.height='827px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px'
     ;vizElement.style.height='827px';} else { vizElement.style.width='100%';vizElement.style.height='1127px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 
+    
+### Summing Up
+This way of analyzing visuals was really useful in my experience. It helped me to evaluate the same visualization from several perspectives, going beyond its beauty. As designers, we frequently focus primarily on aesthetics, but the criteria prompted me to investigate additional elements.While each phase provided distinct considerations, the whole experience was excellent. It taught me a fresh way to critique existing visuals and how to effectively incorporate other perspectives into the redesign process.
 
 
 
