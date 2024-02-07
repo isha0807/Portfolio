@@ -31,10 +31,12 @@ Engagement.
 10/10 
 With limited information in the initial data visualization, viewers are likely motivated to delve deeper into the article for additional insights. Consequently, the entire article becomes engaging for the audience as they are compelled to satisfy their curiosity and learn more.
 
-### Step three: sketch out a solution
-Reflecting on the previous critique I provided, it aided me in conceptualizing and sketching out the idea I aimed to communicate.
+### Step three: Sketch out a solution
+Reflecting on the previous critique I provided, it aided me in conceptualizing and sketching out the idea I aimed to communicate. The primary goal of the redesign was to clearly illustrate the breakdown of expenses, whether it be living or tuition costs, to empower viewers to make informed decisions.
 
 ![IMG_6939](https://github.com/isha0807/Portfolio/assets/157324981/7093a7cf-c67a-4436-b274-760d78984024)
+
+
 
 
 
