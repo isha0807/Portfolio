@@ -1,4 +1,4 @@
-| [home page](https://isha0807.github.io/Portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) |
+| [home page](https://isha0807.github.io/Portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | 
 
 # 3 & 4: Critique by Design
 
