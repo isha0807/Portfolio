@@ -1,16 +1,28 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | 
 
 
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
+# Project Outline
+**The Hair Loss Enigma: Cracking the Code in Your Mid-20s and 30s**
 
-# Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
+**Targeted Audience:** Individuals in their mid-20s to mid-30s experiencing hair loss or excessive shedding.
+
+**Core Idea:** Facing unexpected hair loss in your prime can be confusing and frustrating. This project empowers you to demystify your hair loss by offering data-driven insights and personalized guidance.
+
+**Visualizing the Trends:** Visualizations revealing how your unique blend of factors, from daily protein intake to stress level, influences your hair loss risk. Will translate complex data into captivating visuals.
+
+**Raising Awareness**: Knowledge is power. This project won't just predict hair loss; it will **empower informed action**:
+
+- **Early intervention:** Identify and address risk factors before noticeable hair loss,potentially mitigating its severity.
+- **Personalized prevention:** Tailor your lifestyle and habits based on your unique data insights, promoting healthier hair.
+- **Medical guidance:** Facilitate informed discussions with healthcare professionals for targeted interventions.
+
+**Beyond Awareness:** By normalizing its diverse causes and promoting open dialogue, we can alleviate anxieties surrounding this common experience.
+
+
+
  
-Text here...
-
 > A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
 
-Text here...
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
