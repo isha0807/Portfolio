@@ -2,7 +2,9 @@
 
 # Wireframes / storyboards
 
-Shorthand Storyboard #1589F0
+- text in red
+- Shorthand Storyboard 
+
 
 Text here!
 
