@@ -20,11 +20,14 @@ I selected participants who are experiencing hair loss and find it troubling, as
  
 ### Section 1: Hair Loss Experience
 Goals: 
-To assess the extent and severity of hair loss among the respondents. Understand how hair loss affects different aspects of their lives, such as their appearance, health, and well-being. 
+To assess the extent and severity of hair loss among the respondents. Understand how hair loss affects different aspects of their lives, such as their appearance, health, and well-being.
+
 Questions to be asked:
-Have you experienced any changes in your hair thickness or density in the past year?
-How often do you think about your hair loss on a weekly basis?
-Have you sought any professional advice or treatment for your hair loss?
+1. Have you experienced any changes in your hair thickness or density in the past year?
+2. How often do you think about your hair loss on a weekly basis?
+3. Have you sought any professional advice or treatment for your hair loss?
+
+   
 ### Section 2: Emotional Impact 
 Goals: 
 To evaluate the psychological and emotional impact of hair loss on the respondents. Measure how hair loss influences their self-esteem, confidence, and mood and explore how hair loss affects their social and interpersonal relationships, such as their family, friends, and romantic partners.
