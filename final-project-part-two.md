@@ -2,7 +2,7 @@
 
 # Wireframes / storyboards
 
-### Shorthand Storyboard 
+Storyboard 
 
 To create visualizations and storyboards for my project, I used Short hand, Tableau, and Flourish as my main tools. My storytelling concept was refined through developing wireframes and storyboards, and conducting user research with Shorthand.
 
@@ -17,6 +17,8 @@ Many men and women in their 20s and 30s struggle with hair loss and its impact o
 I selected participants who are experiencing hair loss and find it troubling, as they dedicate significant amount of time thinking about it. The individuals I chose spanned different age groups: two were in their mid-20s, and two were in their mid-30s. Additionally, I ensured diversity in gender representation, with two males and two females included.
 
 ## Interview script
+
+### Part 1: Will ask the participants to browse through the storyboard and allocate 10 mins to engage with it. Then ask the following question about the topic. 
  
 ### Section 1: Hair Loss Experience
 
@@ -68,6 +70,16 @@ Based on the visualization get a deeper understanding of how hair loss affects t
 2. What support or resources do you feel would be most helpful in your journey to address hair loss and promote hair health?
 3. What role do you believe genetics, lifestyle factors, and external influences play in your experience of hair loss?
 4. Are there any specific goals or milestones you hope to achieve to address hair loss and promote hair health?
+
+### Part 2: Questions about the storyboard
+
+1. How did the overall story resonate with you? Did it contribute positively to your sense of confidence?
+2. Were there any aspects of the storyboard that surprised you or provided new insights?
+3. Can you describe the range of emotions you experienced while engaging with the storyboard?
+4. What are your impressions of the title chosen for the storyboard?
+5. What reflections or insights do you have after viewing the entire storyboard?
+6. In your opinion, are there any areas of the existing showcase that could be improved or revised?
+7. Do you have any additional recommendations or suggestions for enhancing the effectiveness of the storyboard?
 
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
