@@ -11,7 +11,7 @@ To create visualizations and storyboards for my project, I used Short hand, Tabl
 
 ```diff
 - text in red
-+ text in green
++ Part 1
 ! text in orange
 # text in gray
 @@ text in purple (and bold)@@
