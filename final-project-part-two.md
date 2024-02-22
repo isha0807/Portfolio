@@ -40,26 +40,34 @@ To evaluate the psychological and emotional impact of hair loss on the responden
 4. Have you experienced any anxiety related to hair loss?
 
 ### Section 3: Coping Mechanisms
-Goals: 
+
+#### Goals: 
 Learn what kind of treatments or procedures respondents have tried or considered, such as medication, hair transplant, or hair products. What kind of resources or information do they need or seek to manage hair loss, such as professional advice, support groups, or online forums?
-Questions to be asked:
-Have you considered any treatments or procedures for hair loss? 
-What are your biggest concerns or anxieties about hair loss?
-What resources or information would be helpful to you in managing hair loss?
+
+#### Questions to be asked:
+1. Have you considered any treatments or procedures for hair loss? 
+2. What are your biggest concerns or anxieties about hair loss?
+3. What resources or information would be helpful to you in managing hair loss?
+
 ### Section 4: Additional Questions
-Goals: 
+
+#### Goals: 
 Uncover any discrimination or stigma that they have faced or witnessed because of hair loss, such as negative comments, jokes, or stereotypes.
-Questions to be asked:
-Have you experienced any discrimination or stigma related to hair loss?
-What advice would you give someone experiencing hair loss in their mid-20s or 30s?
+
+#### Questions to be asked:
+1. Have you experienced any discrimination or stigma related to hair loss?
+2. What advice would you give someone experiencing hair loss in their mid-20s or 30s?
+
 ### Section 5: Open-Ended Questions
-Goals: 
+
+#### Goals: 
 Based on the visualization get a deeper understanding of how hair loss affects their identity and sense of self.
-Questions to be asked:
-After looking at the visualisation, in what ways do you think your current habits or behaviours may be contributing to your hair loss, and what steps do you plan to take to address them?
-What support or resources do you feel would be most helpful in your journey to address hair loss and promote hair health?
-What role do you believe genetics, lifestyle factors, and external influences play in your experience of hair loss?
-Are there any specific goals or milestones you hope to achieve to address hair loss and promote hair health?
+
+#### Questions to be asked:
+1. After looking at the visualisation, in what ways do you think your current habits or behaviours may be contributing to your hair loss, and what steps do you plan to take to address them?
+2. What support or resources do you feel would be most helpful in your journey to address hair loss and promote hair health?
+3. What role do you believe genetics, lifestyle factors, and external influences play in your experience of hair loss?
+4. Are there any specific goals or milestones you hope to achieve to address hair loss and promote hair health?
 
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
