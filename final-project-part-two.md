@@ -2,11 +2,11 @@
 
 # Wireframes / storyboards
 
-Storyboard 
+## Storyboard 
 
 To create visualizations and storyboards for my project, I used Short hand, Tableau, and Flourish as my main tools. My storytelling concept was refined through developing wireframes and storyboards, and conducting user research with Shorthand.
 
-<a href="https://carnegiemellon.shorthandstories.com/the-hair-loss-enigma/index.html" target="_blank">StoryBoard</a>
+<a href="https://carnegiemellon.shorthandstories.com/the-hair-loss-enigma/index.html" target="_blank">StoryBoard Link</a>
 
 # User research 
 For the first round of feedback, I tested the shorthand storyboard with four participants of different ages and genders. Participants were Male (25 years), Male (34 years), Female (26 years), Female (32 years)
