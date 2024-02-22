@@ -19,23 +19,26 @@ I selected participants who are experiencing hair loss and find it troubling, as
 ## Interview script
  
 ### Section 1: Hair Loss Experience
-Goals: 
+
+#### Goals: 
 To assess the extent and severity of hair loss among the respondents. Understand how hair loss affects different aspects of their lives, such as their appearance, health, and well-being.
 
-Questions to be asked:
+#### Questions to be asked:
 1. Have you experienced any changes in your hair thickness or density in the past year?
 2. How often do you think about your hair loss on a weekly basis?
 3. Have you sought any professional advice or treatment for your hair loss?
 
-   
 ### Section 2: Emotional Impact 
-Goals: 
+
+#### Goals: 
 To evaluate the psychological and emotional impact of hair loss on the respondents. Measure how hair loss influences their self-esteem, confidence, and mood and explore how hair loss affects their social and interpersonal relationships, such as their family, friends, and romantic partners.
-Questions to be asked:
-Do you feel that your hair loss affects your self-confidence?
-Do you feel more self-conscious about your appearance because of hair loss?
-Has hair loss affected your social life or relationships?
-Have you experienced any anxiety related to hair loss?
+
+#### Questions to be asked:
+1. Do you feel that your hair loss affects your self-confidence?
+2. Do you feel more self-conscious about your appearance because of hair loss?
+3. Has hair loss affected your social life or relationships?
+4. Have you experienced any anxiety related to hair loss?
+
 ### Section 3: Coping Mechanisms
 Goals: 
 Learn what kind of treatments or procedures respondents have tried or considered, such as medication, hair transplant, or hair products. What kind of resources or information do they need or seek to manage hair loss, such as professional advice, support groups, or online forums?
