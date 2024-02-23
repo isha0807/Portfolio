@@ -86,32 +86,31 @@ The interviews with the four participants yielded the following insights.
 
 <img width="944" alt="Screenshot 2024-02-22 at 8 09 23 PM" src="https://github.com/isha0807/Portfolio/assets/157324981/b8005195-1331-40a8-a60d-92d1f08b59ee">
 
+
 <img width="944" alt="Screenshot 2024-02-22 at 8 10 29 PM" src="https://github.com/isha0807/Portfolio/assets/157324981/c2ac8e02-ebb0-4ffd-af49-bea82acb6c66">
+
 
 <img width="944" alt="Screenshot 2024-02-22 at 8 10 38 PM" src="https://github.com/isha0807/Portfolio/assets/157324981/074a3306-0500-4d78-b5d4-a267edc20f37">
 
+
 <img width="944" alt="Screenshot 2024-02-22 at 8 10 49 PM" src="https://github.com/isha0807/Portfolio/assets/157324981/8de3bec6-8245-44c0-a67d-e8c51502cb9c">
 
-
-
-
-
-
-
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
+
+Here are the next steps for Part III based on the interviews 
+
+### Part 1 - Overall Story:
+1. To enhance specificity and inclusivity, consider incorporating more gender-specific data points regarding hair loss experiences. This could involve gathering statistics or anecdotes from a diverse range of individuals, including both males and females, to provide a more comprehensive understanding of the issue.
+2. Expand on the influence of social media on perceptions of beauty and confidence. Discussing how social media platforms perpetuate unrealistic beauty standards and exacerbate feelings of inadequacy related to hair loss can add depth to the narrative. Including personal reflections on how exposure to social media content impacts one's own thoughts and emotions can further highlight the significance of this aspect.
+
+### Part 2 - Design:
+1. Minimize blank spaces within the storyboard to optimize visual flow and maintain audience engagement. Utilize all available space effectively by resizing or rearranging elements as needed to create a cohesive layout.
+2. Enhance the impact of the final Data Visualization by providing context and emphasizing its significance within the narrative. Incorporate captions or annotations to highlight key findings or trends, and consider integrating visually compelling elements to draw attention to important insights.
+
+### Part 3 - Correlation Matrix:
+1. Simplify the final correlation matrix to improve readability and comprehension. This can be achieved by organizing the data in a clearer format, using color coding or shading to denote correlations, and providing explanatory labels or legends where necessary.
+2. Ensure that the correlation matrix is aligned with the overall impact of the call to action by demonstrating how the insights derived from the data analysis inform the proposed course of action. Clearly articulate the relevance of the correlations to the recommended strategies or interventions, reinforcing the importance of addressing the identified issues related to hair loss and confidence.
 
 
-Text here!
-
-| Research synthesis                       | Anticipated changes for Part III                                                |
-|------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
-
-> ...include any final thoughts you have here. 
 
 
