@@ -82,19 +82,15 @@ Based on the visualization get a deeper understanding of how hair loss affects t
 7. Do you have any additional recommendations or suggestions for enhancing the effectiveness of the storyboard?
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
-
-Text here!
-
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
-|-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
-
+The interviews with the four participants yielded the following insights.
+![Frame 2](https://github.com/isha0807/Portfolio/assets/157324981/bacf69bf-51a5-4520-bda4-58a7ab900c7b)
+![Frame 3](https://github.com/isha0807/Portfolio/assets/157324981/2f96dcd9-59db-42aa-ac95-bd7830e92955)
+![Frame 4](https://github.com/isha0807/Portfolio/assets/157324981/966c6b7b-1e8d-4e47-be11-d9f5e0425104)
+![Frame 5](https://github.com/isha0807/Portfolio/assets/157324981/9ab25f2a-9e6f-4e1d-b76b-05c9a53cf4df)
 
 # Identified changes for Part III
 > Document the changes you plan on implementing next week to address any issues identified.  
+
 
 Text here!
 
