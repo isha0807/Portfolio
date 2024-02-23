@@ -84,15 +84,17 @@ Based on the visualization get a deeper understanding of how hair loss affects t
 ## Interview findings
 The interviews with the four participants yielded the following insights.
 
-![Frame 2](https://github.com/isha0807/Portfolio/assets/157324981/bacf69bf-51a5-4520-bda4-58a7ab900c7b)
+<img width="944" alt="Screenshot 2024-02-22 at 8 09 23 PM" src="https://github.com/isha0807/Portfolio/assets/157324981/b8005195-1331-40a8-a60d-92d1f08b59ee">
 
-![Frame 3](https://github.com/isha0807/Portfolio/assets/157324981/2f96dcd9-59db-42aa-ac95-bd7830e92955)
+<img width="944" alt="Screenshot 2024-02-22 at 8 10 29 PM" src="https://github.com/isha0807/Portfolio/assets/157324981/c2ac8e02-ebb0-4ffd-af49-bea82acb6c66">
 
-![Frame 4](https://github.com/isha0807/Portfolio/assets/157324981/966c6b7b-1e8d-4e47-be11-d9f5e0425104)
+<img width="944" alt="Screenshot 2024-02-22 at 8 10 38 PM" src="https://github.com/isha0807/Portfolio/assets/157324981/074a3306-0500-4d78-b5d4-a267edc20f37">
 
-![Frame 5](https://github.com/isha0807/Portfolio/assets/157324981/9ab25f2a-9e6f-4e1d-b76b-05c9a53cf4df)
+<img width="944" alt="Screenshot 2024-02-22 at 8 10 49 PM" src="https://github.com/isha0807/Portfolio/assets/157324981/8de3bec6-8245-44c0-a67d-e8c51502cb9c">
 
-<img width="943" alt="Screenshot 2024-02-22 at 8 09 23 PM" src="https://github.com/isha0807/Portfolio/assets/157324981/b8005195-1331-40a8-a60d-92d1f08b59ee">
+
+
+
 
 
 
