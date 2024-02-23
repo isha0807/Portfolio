@@ -92,6 +92,10 @@ The interviews with the four participants yielded the following insights.
 
 ![Frame 5](https://github.com/isha0807/Portfolio/assets/157324981/9ab25f2a-9e6f-4e1d-b76b-05c9a53cf4df)
 
+<img width="943" alt="Screenshot 2024-02-22 at 8 09 23 PM" src="https://github.com/isha0807/Portfolio/assets/157324981/b8005195-1331-40a8-a60d-92d1f08b59ee">
+
+
+
 # Identified changes for Part III
 > Document the changes you plan on implementing next week to address any issues identified.  
 
