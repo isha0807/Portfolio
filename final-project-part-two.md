@@ -8,7 +8,7 @@ To create visualizations and storyboards for my project, I used Short hand, Tabl
 
 <a href="https://carnegiemellon.shorthandstories.com/the-hair-loss-enigma/index.html" target="_blank">StoryBoard Link</a>
 
-# User research 
+## User research 
 For the first round of feedback, I tested the shorthand storyboard with four participants of different ages and genders. Participants were Male (25 years), Male (34 years), Female (26 years), Female (32 years)
 
 ## Target audience
