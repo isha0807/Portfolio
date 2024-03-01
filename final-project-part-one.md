@@ -1,7 +1,7 @@
 | [home page](https://isha0807.github.io/Portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 
-## Project Outline
+# Part 1: Project Outline
 **The Hair Loss Enigma: Cracking the Code in Your Mid-20s and 30s**
 
 **Targeted Audience:** Individuals in their mid-20s to mid-30s experiencing hair loss or excessive shedding.
