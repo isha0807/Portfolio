@@ -2,7 +2,7 @@
 
 
 # Part 1: Project Outline
-## **The Hair Loss Enigma: Cracking the Code in Your Mid-20s and 30s**
+## The Hair Loss Enigma: Cracking the Code in Your Mid-20s and 30s
 
 **Targeted Audience:** Individuals in their mid-20s to mid-30s experiencing hair loss or excessive shedding.
 
