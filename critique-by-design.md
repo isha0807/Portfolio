@@ -2,10 +2,10 @@
 
 # 3 & 4: Critique by Design
 
-### Step 1: Select a data visualisation from MakeoverMonday
+## Step 1: Select a data visualisation from MakeoverMonday
 For this assignment, I explored various visualizations available on Makeover Monday. My aim was to select a dataset that provided enough opportunities for experimentation and offered a more effective means of conveying the data compared to its original presentation. Ultimately, I decided to work with the data on **The cheapest countries to study in Europe in 2023**. This topic holds personal significance for me, as I myself was in the midst of selecting a university just a year ago. Engaging with this dataset took my down the memory lane and instantly resonating with me on a personal level.
 
-### Step 2: Critique
+## Step 2: Critique
 
 Usefulness. 
 6/10 
@@ -31,12 +31,12 @@ Engagement.
 10/10 
 With limited information in the initial data visualization, viewers are likely motivated to delve deeper into the article for additional insights. Consequently, the entire article becomes engaging for the audience as they are compelled to satisfy their curiosity and learn more.
 
-### Step 3: Sketch out a solution
+## Step 3: Sketch out a solution
 Reflecting on the previous critique I provided, it aided me in conceptualizing and sketching out the idea I aimed to communicate. The primary goal of the redesign was to clearly illustrate the breakdown of expenses, whether it be living or tuition costs, to empower viewers to make informed decisions.
 
 ![IMG_6939](https://github.com/isha0807/Portfolio/assets/157324981/7093a7cf-c67a-4436-b274-760d78984024)
 
-### Step 4: Sketch out a solution
+## Step 4: Sketch out a solution
 I tested the initial sketches with three participants: one male aged 30, and two females both aged 22.
 
 Leveraged the following question to ask the users:
@@ -52,7 +52,7 @@ Feedback:
 2. Participants were curious about the reason behind the inverse relationship between high living expenses and lower tuition fees in some countries.
 3. Despite this, participants appreciated the initial world map approach in the Data Visualization, as it provided a geographical context and allowed them to visualize how the average costs played out on a larger scale.
 
-### Step 5: Solution
+## Step 5: Solution
 <div class='tableauPlaceholder' id='viz1707282741148' style='position: relative'>
   <noscript>
     <a href='#'>
@@ -82,7 +82,7 @@ Feedback:
     ;vizElement.style.height='827px';} else { vizElement.style.width='100%';vizElement.style.height='1127px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 
     
-### Summing Up
+## Summing Up
 
 I selected this visualization to offer viewers a comprehensive perspective. By highlighting countries with lower tuition fees despite high living expenses, students with budget constraints can identify affordable options. Moreover, those aspiring to study in cities renowned for excellent infrastructure and healthcare need not worry about exorbitant costs, as factors such as urbanization, government regulations, and taxes often mitigate tuition fees. Thus, while living expenses may be elevated, the overall average cost is moderated.
 
